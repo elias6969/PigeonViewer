@@ -1,12 +1,2 @@
-import React from "react";
+// src/components/test.tsx
 
-function Test() {
-  return (
-    <>
-    <h1>Hello world</h1>
-    <p>this is something</p>
-    </>
-  );
-}
-
-export default Test;

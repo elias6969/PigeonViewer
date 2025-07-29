@@ -9,7 +9,6 @@ import com.mrrice.movieflix.service.MovieService;
 
 @RestController
 @RequestMapping("/api/movies")
-@CrossOrigin
 public class MovieController {
 
     private final MovieService movieService;
